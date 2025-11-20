@@ -15,6 +15,7 @@ import (
 )
 
 func main () {
+	//variables
 var province1 string
 var province2 string
 var province3 string
