@@ -2,7 +2,7 @@
 * @author Brayden Thistle
 * @version 1.0.0
 * @date 2025-11-19
-* @fileoverfiew this program sings the user happy birthday
+* @fileoverfiew this program asks you for the Provinces of ontario
 */
 
 package main
