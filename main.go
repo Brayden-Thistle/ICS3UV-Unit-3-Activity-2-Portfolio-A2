@@ -108,55 +108,55 @@ reader.ReadString('\n')
 
 	fmt.Println("Good Job!")
 
-	fmt.Print("What is the first territory? ")
+	fmt.Print("What is the first Capital you mentioned? ")
 	cap1, _ = reader.ReadString('\n')
 	cap1 = strings.TrimSpace(cap1)
 
-	fmt.Print("What is the first territory? ")
+	fmt.Print("What is the second Capital you mentioned? ")
 	cap2, _ = reader.ReadString('\n')
 	cap2 = strings.TrimSpace(cap2)
 
-		fmt.Print("What is the first territory? ")
+		fmt.Print("What is the third Capital you mentioned? ")
 	cap3, _ = reader.ReadString('\n')
 	cap3 = strings.TrimSpace(cap3)
 
-	fmt.Print("What is the first territory? ")
+	fmt.Print("What is the 4th Capital you mentioned? ")
 	cap4, _ = reader.ReadString('\n')
 	cap4 = strings.TrimSpace(cap4)
 
-	fmt.Print("What is the first territory? ")
+	fmt.Print("What is the 5th Capital you mentioned? ")
 	cap5, _ = reader.ReadString('\n')
 	cap5 = strings.TrimSpace(cap5)
 
-	fmt.Print("What is the first territory? ")
+	fmt.Print("What is the 6th Capital you mentioned? ")
 	cap6, _ = reader.ReadString('\n')
 	cap6 = strings.TrimSpace(cap6)
 
-	fmt.Print("What is the first territory? ")
+	fmt.Print("What is the 7th Capital you mentioned? ")
 	cap7, _ = reader.ReadString('\n')
 	cap7 = strings.TrimSpace(cap7)
 
-	fmt.Print("What is the first territory? ")
+	fmt.Print("What is the 8th Capital you mentioned? ")
 	cap8, _ = reader.ReadString('\n')
 	cap8 = strings.TrimSpace(cap8)
 
-	fmt.Print("What is the first territory? ")
+	fmt.Print("What is the 9th Capital you mentioned? ")
 	cap9, _ = reader.ReadString('\n')
 	cap9 = strings.TrimSpace(cap9)
 
-	fmt.Print("What is the first territory? ")
+	fmt.Print("What is the 10th Capital you mentioned? ")
 	cap10, _ = reader.ReadString('\n')
 	cap10 = strings.TrimSpace(cap10)
 
-	fmt.Print("What is the first territory? ")
+	fmt.Print("What is the 11th Capital you mentioned? ")
 	cap11, _ = reader.ReadString('\n')
 	cap11 = strings.TrimSpace(cap11)
 
-	fmt.Print("What is the first territory? ")
+	fmt.Print("What is the 12th Capital you mentioned? ")
 	cap12, _ = reader.ReadString('\n')
 	cap12 = strings.TrimSpace(cap12)
 
-	fmt.Print("What is the first territory? ")
+	fmt.Print("What is the 13th Capital you mentioned? ")
 	cap13, _ = reader.ReadString('\n')
 	cap13 = strings.TrimSpace(cap13)
 
